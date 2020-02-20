@@ -4,7 +4,7 @@
 class Secretsswift < Formula
   desc ""
   homepage ""
-  url "https://github.com/MatheusMBispo/SecretsSwift/archive/0.1.0.tar.gz"
+  url "https://github.com/MatheusMBispo/SwiftSecrets/archive/0.2.0.tar.gz"
   sha256 "f6bd75021a1447cea8fe0a7c94ec8100c8900d3928ff0f7e5778dc5e705e8dd6"
 
   # depends_on "cmake" => :build
